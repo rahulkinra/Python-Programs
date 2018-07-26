@@ -1,0 +1,14 @@
+print('Enter the 5 elemetns');
+n1 = input();
+n2 = input();
+n3 = input();
+n4 = input();
+n5 = input();
+num1 = int(n1);
+num2 = int(n2);
+num3 = int(n3);
+num4 = int(n4);
+num5 = int(n5);
+sum = num1 + num2 + num3 + num4 + num5;
+average = sum/5;
+print(average);
